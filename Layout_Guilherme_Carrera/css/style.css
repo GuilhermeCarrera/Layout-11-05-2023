@@ -1,0 +1,32 @@
+@media (max-width: 600px) { 
+    .bgimg{
+        width: 595px;
+    }
+
+    .div1{
+        display: none;
+    }
+
+    .img2{
+        width: 500px;
+        height: 150px;
+    }
+
+    .img3{
+        width: 260px;
+        height: 215px;
+        
+    }
+
+    .img5{
+        display: none;
+    }
+
+    
+
+    .img4{
+        width: 210px;
+        height: 100px;
+        margin-left: 5px;
+    }
+}
